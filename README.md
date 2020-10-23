@@ -1,7 +1,11 @@
 # maze
 
-### macOS 版本 WASD
-### iOS 版本 点击屏幕左边右边中间的方式来探索迷宫
+### macOS  WASD
+### iOS 
+
+##### 点击屏幕左边右边中间的方式来探索迷宫
+
+##### click left part or right part of your iPhone to rotate , click the middle to move forward
 
 ## 获取最新版本
 
