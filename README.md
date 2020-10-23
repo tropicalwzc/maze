@@ -1,6 +1,11 @@
 # maze
 
-### macOS  WASD
+### macOS  
+
+#### [W] 前进 [A] 左转 [D] 右转 [Space] 天空视角
+
+#### [W] move forward [A] left rotate [D] right rotate [Space] sky camera
+
 ### iOS 
 
 ##### 点击屏幕左边右边中间的方式来探索迷宫
